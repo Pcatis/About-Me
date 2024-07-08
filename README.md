@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pcatis
+- 👀 I’m interested in machine learning algorithms, data science, mathematical modeling and optimization, and chemical engineering.
+- 💞️ I’m looking to collaborate on projects and companies.
+- 📫 How to reach me:
+- Linkedin: www.linkedin.com/in/Paulo-Reginaldo-Costa-Filho
